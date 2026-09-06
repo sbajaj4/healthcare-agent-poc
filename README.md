@@ -17,8 +17,8 @@ An enterprise-grade, low-latency automated clinical claim audit pipeline. This s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sbajaj4/cotiviti-agent-poc.git
-   cd cotiviti-agent-poc
+   git clone https://github.com/sbajaj4/healthcare-agent-poc.git
+   cd healthcare-agent-poc
    ```
 
 2. **Configure Environment Variables:**
