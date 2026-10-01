@@ -1,0 +1,33 @@
+# Credentials & Secrets
+.env
+.env.*
+!.env.example
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# LangGraph / SQLite Persistence Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Pipeline Output Artifacts
+final_audit_results.json
+*.log
+
+# IDEs & OS Files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
